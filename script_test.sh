@@ -2,4 +2,4 @@
 
 echo Bonjour !!
 echo good 
-echo test
+echo test2
